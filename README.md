@@ -2,6 +2,7 @@
 Este GitHub es para instalar prokka
 ## Instalación
 Primer paso: instalar dependencias
+
 $ sudo apt-get update
 
 $ sudo apt-get upgrade
