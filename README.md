@@ -1,6 +1,6 @@
 # prokka
 Este GitHub es para instalar prokka
-## instalacion
+## Instalación
 Primer paso: instalar dependencias
 $ sudo apt-get update
 
@@ -27,7 +27,7 @@ $ cd sanger-pathogens-Roary-db
 
 $ ./install_dependencies.sh
 
-chuquear si esta bien instalado
+chequear si esta bien instalado
 $ roary -w
 Si aparece que no esta instalado ingresar la sugerencia del terminal que es
 $ sudo apt install roady
