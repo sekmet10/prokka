@@ -1,4 +1,4 @@
-# prokka
+# Prokka
 Este GitHub es para instalar prokka
 ## Instalación
 Primer paso: instalar dependencias
